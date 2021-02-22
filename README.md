@@ -5,5 +5,5 @@ Given a sorted array of distinct integers and a target value, return the index i
 
 **Example 1:**
 >**Input:** nums = [1,3,5,6], target = 5 
->>**Output:** 2
+>**Output:** 2
 
