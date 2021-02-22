@@ -29,7 +29,7 @@ Given a sorted array of distinct integers and a target value, return the index i
 >**Output:** 0
 
 #### Code
-```
+```python
 class Solution:
 def searchInsert(self, nums: List[int], target: int) -> int:
     lo, hi = 0, len(nums) - 1
