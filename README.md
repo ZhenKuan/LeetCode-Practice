@@ -1,5 +1,5 @@
 # LeetCode-Practice
-## [資料結構-Hash Table](二元搜尋法)
+## 資料結構-Hash Table
 * 一個key對應一個value
 * key值不重複
 * 插入/搜尋/修改/刪除 均為O(1)
